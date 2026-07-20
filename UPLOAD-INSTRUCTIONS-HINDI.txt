@@ -1,0 +1,18 @@
+SIRMINT BLOG — COMING SOON FIX
+
+1. ZIP ko computer me extract karein.
+2. GitHub repository open karein:
+   https://github.com/Sirmint-Technology/sirmint-blog
+3. Add file > Upload files par click karein.
+4. Extract ke andar ki sabhi 4 files ek saath repository ROOT me upload karein:
+   index.html, 404.html, CNAME, UPLOAD-INSTRUCTIONS-HINDI.txt
+5. Commit changes par click karein.
+6. Settings > Pages open karein.
+7. Source: Deploy from a branch
+8. Branch: main | Folder: /(root) | Save
+9. Custom domain: blog.sirmint.com
+10. Cloudflare DNS: CNAME blog -> Sirmint-Technology.github.io, Proxy status DNS only.
+
+ZIP file ko GitHub par seedha upload nahi karna hai. Pehle extract karna hai.
+Koi folder upload nahi karna hai.
+Existing Astro files ko abhi delete karne ki zaroorat nahi hai.
